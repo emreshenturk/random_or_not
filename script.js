@@ -84,6 +84,7 @@ function reset() {
 }
 
 create_btn.addEventListener('click', function() {
+    container.innerHTML = '';
     productBoxes(number_boxes.value);
 })
 
@@ -96,6 +97,8 @@ start.addEventListener('click', function () {
         }, i * 10);
     }
 });
+
+productBoxes(15);
 
 
 

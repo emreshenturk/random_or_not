@@ -57,7 +57,7 @@ body {
     justify-content: space-evenly;
 }
 
-.start-btn {
+.btn {
     width: 10rem;
     height: 5rem;
     border: none;
@@ -68,6 +68,6 @@ body {
     cursor: pointer;
 }
 
-.start-btn:hover {
+.btn:hover {
     background-color: rgb(131, 60, 32);
 }

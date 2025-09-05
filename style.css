@@ -46,8 +46,8 @@ body {
 
 .ball {
     flex: 0 0 auto;
-    width: 0.5rem;
-    height: 0.5rem;
+    width: 0.2rem;
+    height: 0.2rem;
     background-color: red;
 }
 
